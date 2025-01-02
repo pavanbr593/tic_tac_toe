@@ -4,10 +4,10 @@ A simple Tic Tac Toe game built with Python and Tkinter. Players alternate placi
 
 Features
 
-2-player gameplay (Player X and Player O)
+1) 2-player gameplay (Player X and Player O)
 
-Winning condition check (rows, columns, diagonals)
+2) Winning condition check (rows, columns, diagonals)
 
-Draw detection
+3) Draw detection
 
-Visual feedback with colors (green for X, red for O, yellow for winning cells)
+4) Visual feedback with colors (green for X, red for O, yellow for winning cells)
